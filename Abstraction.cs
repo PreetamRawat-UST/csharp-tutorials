@@ -20,11 +20,11 @@ class Parrot : Birds
 }
 class Abstraction
 {
-    static void Main(string[] args)
-    {
-        Console.WriteLine("Hello, World!");
-        Birds parrotObj = new Parrot();
-        parrotObj.Fly();
-        parrotObj.MakeSound();
-    }
+    // static void Main(string[] args)
+    // {
+    //     Console.WriteLine("Hello, World!");
+    //     Birds parrotObj = new Parrot();
+    //     parrotObj.Fly();
+    //     parrotObj.MakeSound();
+    // }
 }
