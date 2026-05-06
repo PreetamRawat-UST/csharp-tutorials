@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C_Sharp_Tuts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e22e493d227f6acd2f109d88e4d32e039711763")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1375925a73dc1da30da720d536736646cdca320c")]
 [assembly: System.Reflection.AssemblyProductAttribute("C_Sharp_Tuts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C_Sharp_Tuts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
