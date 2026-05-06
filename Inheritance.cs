@@ -17,10 +17,10 @@ class Car : Vehicle
 }
 class MainClass
 {
-    static void Main(string[] args)
-    {
-        Console.WriteLine("Hello, World!");
-        Vehicle carObj = new Car();
-        carObj.Honk();
-    }
+    // static void Main(string[] args)
+    // {
+    //     Console.WriteLine("Hello, World!");
+    //     Vehicle carObj = new Car();
+    //     carObj.Honk();
+    // }
 }
